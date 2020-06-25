@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/obstacle.png</file>
+        <file>images/Angle_dl.png</file>
+        <file>images/Angle_lu.png</file>
+        <file>images/Angle_rd.png</file>
+        <file>images/Angle_ur.png</file>
+        <file>images/Head_down.png</file>
+        <file>images/Head_left.png</file>
+        <file>images/Head_right.png</file>
+        <file>images/Head_up.png</file>
+        <file>images/Straight_hor.png</file>
+        <file>images/Straight_ver.png</file>
+        <file>images/Tail_d.png</file>
+        <file>images/Tail_l.png</file>
+        <file>images/Tail_r.png</file>
+        <file>images/Tail_u.png</file>
+        <file>images/red_Angle_dl.png</file>
+        <file>images/red_Angle_lu.png</file>
+        <file>images/red_Angle_rd.png</file>
+        <file>images/red_Angle_ur.png</file>
+        <file>images/red_Head_down.png</file>
+        <file>images/red_Head_left.png</file>
+        <file>images/red_Head_right.png</file>
+        <file>images/red_Head_up.png</file>
+        <file>images/red_Straight_hor.png</file>
+        <file>images/red_Straight_ver.png</file>
+        <file>images/red_Tail_d.png</file>
+        <file>images/red_Tail_l.png</file>
+        <file>images/red_Tail_r.png</file>
+        <file>images/red_Tail_u.png</file>
+        <file>images/banana.png</file>
+        <file>images/fruit.png</file>
+        <file>images/pills.png</file>
+        <file>images/black.png</file>
+        <file>images/1.wav</file>
+        <file>images/2.wav</file>
+        <file>images/3.wav</file>
+    </qresource>
+</RCC>
